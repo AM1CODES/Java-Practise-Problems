@@ -3,6 +3,8 @@ This repo contains my practice codes written in java
 
 ## 450 - DSA
 
+Link to the Excel sheet - https://drive.google.com/file/d/1ILSU9aPVu-5Q8zLySC1HjZ7tQl5VBdeX/view
+
 | Sr. No       | Question                                           | No. of Approaches |
 | :---         |     :---:                                          |          ---:     |
 | 1            | Reverse an Array                                   | 2                 |
