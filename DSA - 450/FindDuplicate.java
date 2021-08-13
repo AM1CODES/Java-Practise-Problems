@@ -1,3 +1,4 @@
+import java.util.Arrays;
 class Solution {
     public int findDuplicate(int[] nums) {
         int store = 0;
