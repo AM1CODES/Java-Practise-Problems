@@ -4,7 +4,7 @@ class Solution {
         int first = 0;
         while(first<=last)
         {
-            int mid = first + (last-first)/2;
+            int mid = first + (last-first)/2; //here we are doing (last-first)/2 to prevent any sort of overflow when we encouter any large numbers
             if(nums[mid] == target){
                 return mid;
             }
